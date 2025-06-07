@@ -1,0 +1,8 @@
+
+.App{
+    min-height: 100vh;
+    display: flex;
+    background-image: url("homeBackground.avif");
+    background-position: center;
+    color: black;
+}
