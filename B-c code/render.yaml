@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: Projects-1.11-3
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node server.js
+    nodeVersion: 20
