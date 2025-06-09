@@ -10,7 +10,7 @@ const PORT = process.env.PORT || 3000;
 // ✅ CORS Setup
 const allowedOrigins = [
   'https://6847394284fffc11d9715017--calm-froyo-09c0c1.netlify.app', // Netlify Preview
-  'https://starlit-lollipop-29ad15.netlify.app' // Netlify Production
+  'https://calm-froyo-09c0c1.netlify.app' // Netlify Production
 ];
 
 const corsOptions = {
